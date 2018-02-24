@@ -32,6 +32,7 @@ Run Stock->Desktop, Enter your local IP, port keep as is, and enter some passwor
 
 https://github.com/igormironchik
 
+
 # Original Repository Location
 
 https://github.com/igormironchik/stock
