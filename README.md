@@ -28,7 +28,7 @@ Mobile application and desktop part can communicate on one network only, but com
 
 Run Stock->Desktop, Enter your local IP, port keep as is, and enter some password. Press OK. That's all - application is configured and ready for use.
 
-# Author: 
+# Author
 
 https://github.com/igormironchik
 
